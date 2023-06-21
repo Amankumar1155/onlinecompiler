@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 Jun 2023 10:19:50 at https://www.programiz.com/java-programming/online-compiler/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.programiz.com/java-programming/online-compiler/ -O1 "E:\compiler" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:20:37	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js (from https://www.programiz.com/java-programming/online-compiler/)
+10:20:37	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link cdn.carbonads.com/carbon.js?serve=CKYDL27L&placement=wwwprogramizcom (from https://www.programiz.com/java-programming/online-compiler/)
+10:20:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.programiz.com/java-programming/online-compiler/)
+10:20:44	Warning: 	Warning: store application/octet-stream without scan: E:/compiler/www.programiz.com/java-programming/online-compiler/assets/icons/python.svg
+10:20:44	Warning: 	Warning: store application/octet-stream without scan: E:/compiler/www.programiz.com/java-programming/online-compiler/assets/icons/java.svg
+10:20:44	Warning: 	Warning: store application/octet-stream without scan: E:/compiler/www.programiz.com/java-programming/online-compiler/assets/icons/c.svg
+10:20:44	Warning: 	Warning: store application/octet-stream without scan: E:/compiler/www.programiz.com/java-programming/online-compiler/assets/icons/moon.svg
+10:20:44	Warning: 	Warning: store application/octet-stream without scan: E:/compiler/www.programiz.com/java-programming/online-compiler/assets/icons/sun.svg
+10:20:44	Warning: 	Warning: store application/octet-stream without scan: E:/compiler/www.programiz.com/java-programming/online-compiler/assets/icons/big-close-icon.svg
+10:20:44	Error: 	"Forbidden" (403) at link https://dsh7ky7308k4b.cloudfront.net/publishers/prebid.js (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Error: 	"Forbidden" (403) at link https://dsh7ky7308k4b.cloudfront.net/publishers/trk.js (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Error: 	"Forbidden" (403) at link https://dsh7ky7308k4b.cloudfront.net/publishers/video.h (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Error: 	"Forbidden" (403) at link https://dsh7ky7308k4b.cloudfront.net/publishers/mediaTypes.video.h (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Error: 	"Forbidden" (403) at link https://dsh7ky7308k4b.cloudfront.net/publishers/apex.go.sonobi.com/vast.xml?vid= (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Error: 	"Forbidden" (403) at link https://dsh7ky7308k4b.cloudfront.net/publishers/apex.go.sonobi.com/sbi.js?aid= (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link https://securepubads.g.doubleclick.net/tag/js/gpt.js (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link https://c.amazon-adsystem.com/aax2/apstag.js (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js (from https://www.programiz.com/java-programming/online-compiler/)
+10:20:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link cdn.carbonads.com/carbon.js?serve=CKYDL27L&placement=wwwprogramizcom (from https://www.programiz.com/java-programming/online-compiler/)
+10:20:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://securepubads.g.doubleclick.net/tag/js/gpt.js (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://c.amazon-adsystem.com/aax2/apstag.js (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js (from https://www.programiz.com/java-programming/online-compiler/)
+10:20:44	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link cdn.carbonads.com/carbon.js?serve=CKYDL27L&placement=wwwprogramizcom (from https://www.programiz.com/java-programming/online-compiler/)
+10:20:44	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://securepubads.g.doubleclick.net/tag/js/gpt.js (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+10:20:44	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://c.amazon-adsystem.com/aax2/apstag.js (from https://dsh7ky7308k4b.cloudfront.net/publishers/Programizcomnew.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 seconds : 61 links scanned, 41 files written (1873298 bytes overall) [772029 bytes received at 14296 bytes/sec], 1561878 bytes transferred using HTTP compression in 12 files, ratio 27%, 1.1 requests per connection
+(11 errors, 14 warnings, 0 messages)
